@@ -1,6 +1,6 @@
 /*
 https://blog.csdn.net/ysz171360154/article/details/85006990
-大数加法(不考虑前导0的问题)
+大数加法(不考虑前导0)
 */
 
 
