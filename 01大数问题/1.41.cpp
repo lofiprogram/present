@@ -40,6 +40,7 @@ https://blog.csdn.net/ysz171360154/article/details/88918627
                 for(j=0; j<len2; j++)
                 {
                     c[i+j]=c[i+j]+a[i]*b[j];  //乘运算
+                    //这里内部加的c[i+j]实现的是相同权重上的两个乘数的相加。
                 }
             }
      
