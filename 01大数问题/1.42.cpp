@@ -1,7 +1,7 @@
 /*
 https://blog.csdn.net/ysz171360154/article/details/88918627
 大数乘法
-不能计算负数
+可以计算负数
 */
 
 #include<stdio.h>
